@@ -22,6 +22,7 @@ export const addNewProduct = async (formData) => {
 };
 
 export const getAllAdminProducts = async () => {
+  console.log("working admin-products");
   try {
     const res = await fetch("/api/admin/all-products", {
       method: "GET",
