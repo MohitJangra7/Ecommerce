@@ -192,18 +192,18 @@ export const navOptions = [
     },
   ];
   
-  export const firebaseConfig = {
-    apiKey: "AIzaSyA9HzPV5_EgD9eKdImxZon4wtGB7-YS_nQ",
-    authDomain: "ecommerce-st2.firebaseapp.com",
-    projectId: "ecommerce-st2",
-    storageBucket: "ecommerce-st2.appspot.com",
-    messagingSenderId: "458830555507",
-    appId: "1:458830555507:web:95e827fe613935ce2d3d06",
-    measurementId: "G-H04NMT00P7"
-  };
+  const firebaseConfig = {
+  apiKey: "AIzaSyDS4LYA0X2pMBkW25lpaYC4DkaoeqfC-NM",
+  authDomain: "ecommercelive-acadb.firebaseapp.com",
+  projectId: "ecommercelive-acadb",
+  storageBucket: "ecommercelive-acadb.appspot.com",
+  messagingSenderId: "78519028990",
+  appId: "1:78519028990:web:e8972d4f21ddff43d029af",
+  measurementId: "G-ZGPFGRTGK9"
+};
   
   export const firebaseStroageURL =
-    "gs://ecommerce-st2.appspot.com";
+    "gs://ecommercelive-acadb.appspot.com";
   
   export const addNewAddressFormControls = [
     {
