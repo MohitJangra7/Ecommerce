@@ -192,7 +192,7 @@ export const navOptions = [
     },
   ];
   
-  const firebaseConfig = {
+  export const firebaseConfig = {
   apiKey: "AIzaSyDS4LYA0X2pMBkW25lpaYC4DkaoeqfC-NM",
   authDomain: "ecommercelive-acadb.firebaseapp.com",
   projectId: "ecommercelive-acadb",
